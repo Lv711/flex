@@ -1,4 +1,4 @@
-# 1
+# Lv711
 
 FleX. A Simple C&C Server Written In Python.
 
@@ -68,7 +68,7 @@ $ server_start
 
 Create a backdoor
 ```sh
-$ create 127.0.0.1 4444 name
+$ create 127.0.0.1 4444  Lv711
 ```
 
 Display connected computers and their corresponding ID's
