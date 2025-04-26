@@ -1,4 +1,4 @@
-# Date: 09/28/2017
+# Date: 4/26/2025
 # Author: Ethical-H4CK3R
 # Description: A Simple C&C Server
 
